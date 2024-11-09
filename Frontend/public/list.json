@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "A Story of Love and Loyalty Between Husband and Wife.",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740" 
+    },
+    {
+        "id": 2,
+        "name": "Mystery Novel",
+        "title": "A thrilling mystery that keeps you on the edge of your seat.",
+        "price": 100,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 3,
+        "name": "Science Guide",
+        "title": "Explore the world of science with this comprehensive guide.",
+        "price": 1500,
+        "category": "Education",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Adventure Tales",
+        "title": "Embark on an adventure of a lifetime with these tales.",
+        "price": 280,
+        "category": "Adventure",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 5,
+        "name": "Romance Saga",
+        "title": "A romantic saga that captures the heart and soul.",
+        "price": 800,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 6,
+        "name": "History Chronicles",
+        "title": "Dive into the past with these historical chronicles.",
+        "price": 1200,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Self-Help Guide",
+        "title": "A guide to self-improvement and better living.",
+        "price": 1860,
+        "category": "Self-Help",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Cooking Essentials",
+        "title": "Master the art of cooking with this essential guide.",
+        "price": 500,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Fantasy World",
+        "title": "Enter a fantasy world beyond imagination.",
+        "price": 250,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Business Strategies",
+        "title": "Learn essential strategies for business success.",
+        "price": 220,
+        "category": "Business",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 11,
+        "name": "Health Handbook",
+        "title": "Your complete handbook to health and wellness.",
+        "price": 900,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    },
+    {
+        "id": 12,
+        "name": "Poetry Collection",
+        "title": "A beautiful collection of poems that touch the heart.",
+        "price": 600,
+        "category": "Poetry",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1730447751~exp=1730451351~hmac=5ea2de4f52853d1882adae0f69544276c862c5f9e1cf976994efbf3c82639a5f&w=740"
+    }
+]
