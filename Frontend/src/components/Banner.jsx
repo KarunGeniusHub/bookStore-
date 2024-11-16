@@ -13,7 +13,7 @@ function Banner() {
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum nesciunt deserunt eos harum hic mollitia repellendus? Pariatur perspiciatis nulla quam distinctio amet? Asperiores nulla ab hic laborum eum! Suscipit soluta eum at!
                     </p>
                 {/* Email Section */}
-                <label className="input input-bordered flex items-center gap-2">
+                <label className="input input-bordered flex items-center gap-2 dark:bg-slate-900 dark:text-white dark:border-white">
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 16 16"
@@ -27,7 +27,7 @@ function Banner() {
   <input type="text" className="grow" placeholder="Email" />
 </label>
                 </div>
-                <button className="btn btn-secondary mt-6">Secondary</button>
+                <button className="btn btn-secondary mt-6">Get Started</button>
                 </div>
                 <div className="order-1 w-full md:w-1/2 "><img src="/book.jpg" className='w-full h-full' alt="" /></div>
             </div>

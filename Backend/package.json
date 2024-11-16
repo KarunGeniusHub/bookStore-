@@ -1,0 +1,29 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Mern Project ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarunGeniusHub/bookStore-.git"
+  },
+  "author": "Karun Ghimire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarunGeniusHub/bookStore-/issues"
+  },
+  "homepage": "https://github.com/KarunGeniusHub/bookStore-#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7"
+  }
+}

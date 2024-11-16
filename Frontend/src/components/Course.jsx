@@ -1,9 +1,25 @@
-import React from 'react'
+import React, {useState, useEffect} from 'react'
 import Cards from './Cards'
-import list from "../../public/list.json"
+// import list from "../../public/list.json"
 import { Link } from 'react-router-dom';
+import axios from "axios"
+// import { get } from 'mongoose';
 function Course() {
-  console.log(list);
+  const [book, setBook] = useState([])
+  useEffect(() => {
+    const getBook = async()=>{
+      try {
+       const res = await axios.get("http://localhost:4001/book")
+       console.log(res.data);
+       setBook(res.data)
+       
+      } catch (error) {
+        console.log("Error: ",error);
+        
+      }
+    }
+    getBook()
+  }, [])
   
   return (
     <>
@@ -18,7 +34,7 @@ function Course() {
     </div>
     <div className='mt-12 grid grid-cols-1 md:grid-cols-4'>
       {
-        list.map((item)=>{
+        book.map((item)=>{
           return <Cards key={item.id} item={item}/>
         })
       }
